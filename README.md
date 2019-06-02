@@ -1,3 +1,3 @@
-# Machine_Learning_1_2019
+# Machine_Learning_2019_1
 2019年度開講　機械学習・データ分析のためのRepositoryです。
 2019年6月第1週までに配布した（または配布予定の）Notebookやデータが保存されています。
